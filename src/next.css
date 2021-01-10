@@ -1,0 +1,14 @@
+.nxt-btn {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 2px;
+  background-color: black;
+  color: white;
+}
+.nxt-btn2 {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 2px;
+  background-color: green;
+  color: black;
+}
